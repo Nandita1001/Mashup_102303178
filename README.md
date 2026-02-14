@@ -13,7 +13,7 @@ This project was developed as part of the **Mashup Assignment**, which includes:
 
 ##  UI Preview
 
-![UI Preview](UI_102303178.jpeg)
+![UI Preview](UI_mashup.jpeg)
 
 ---
 
@@ -96,7 +96,7 @@ Mashup/
 │
 ├── app.py              # Streamlit Web Application
 ├── 102303178.py        # Command Line Mashup Program
-├── UI.png              # UI Screenshot
+├── UI_mashup.jpeg              # UI Screenshot
 ├── requirements.txt
 └── README.md
 
